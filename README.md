@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratheesh Balachandran</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-<img align="right" alt="coding"  width="400" src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">
+![giphy](https://user-images.githubusercontent.com/84024670/230354606-cf730275-720d-48c8-889d-d35c3bf728b2.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheesh18&label=Profile%20views&color=0e75b6&style=flat" alt="pratheesh18" /> </p>
 
