@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratheesh Balachandran</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-![giphy](https://user-images.githubusercontent.com/84024670/230354606-cf730275-720d-48c8-889d-d35c3bf728b2.gif)
+<img  align="right" width="400px" src="C:\Users\gf63\Desktop\giphy (1).gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheesh18&label=Profile%20views&color=0e75b6&style=flat" alt="pratheesh18" /> </p>
